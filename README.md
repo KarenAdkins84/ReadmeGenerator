@@ -16,3 +16,10 @@ Node.js
 
 ## Screencastify Demo
 [Video Demo](https://drive.google.com/file/d/1kBPMrhENmb8fhuHvXZTmxuh94AfVOaCN/view)
+
+## Screenshots
+![image](./utils/screenshot1.png)
+![image](./utils/screenshot2.png)
+
+## GitHub Repo
+[Link to Repo](https://github.com/KarenAdkins84/ReadmeGenerator)
