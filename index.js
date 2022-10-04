@@ -105,6 +105,7 @@ Table of Contents
 * [License](#license)
 * [Contribution](#contribution)
 * [Testing](#testing)
+* [Questions](#questions)
 # Description
 ${description}
 ## Installation
@@ -119,7 +120,7 @@ ${contribution}
 ${testing}
 
 # Questions
-* GitHub :${github}
+* GitHub :${github}[My Github](https://github.com/KarenAdkins84)
 * Email :${email}`;
 }
 // TODO: Create a function to initialize app
